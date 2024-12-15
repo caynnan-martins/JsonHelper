@@ -15,7 +15,8 @@ Esta biblioteca oferece funções para manipular arquivos JSON de forma simples 
 
 ## Uso
 
-```const { db } = require('./index');
+```js
+const { db } = require('./index');
 
 // Caminho para o arquivo JSON
 const caminhoArquivo = './db/meuarquivo.json';
